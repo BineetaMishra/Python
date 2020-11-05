@@ -1,0 +1,1 @@
+In flask the static files like CSS and JS need to be located in a STATIC Directory under the subfolder styles.
